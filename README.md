@@ -4,12 +4,12 @@
 **Currently working on:**
 - Discord AI ChatBot and Image Generator: **MindSync AI** project
 - Discord development:
-   >**MindSync**
-   >**Magyar CODM Community**
-   >**SmartMobileGames**
-   >**Jishy**
-   >**TheEquals**
-   >**LvL Up eSport**
+   >**MindSync**,
+   >**Magyar CODM Community**,
+   >**SmartMobileGames**,
+   >**Jishy**,
+   >**TheEquals**,
+   >**LvL Up eSport**,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
